@@ -1,0 +1,10 @@
+C:\Users\harpr\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\Automationtest.csprojAssemblyReference.cache
+C:\Users\harpr\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\Automationtest.csproj.CoreCompileInputs.cache
+C:\Users\harpr\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\harpr\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\harpr\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\harpr\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\harpr\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\harpr\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\WebDriver.dll
+C:\Users\harpr\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\WebDriver.xml
+C:\Users\harpr\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\Automationtest.csproj.CopyComplete
